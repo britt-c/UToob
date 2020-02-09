@@ -1,0 +1,12 @@
+.flash-notice {
+    color: green;
+}
+
+.flash-alert {
+    color:red;
+
+}
+
+body {
+    font-family: sans-serif;
+}
